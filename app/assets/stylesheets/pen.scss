@@ -1,3 +1,15 @@
 // Place all the styles related to the pen controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+#main { font-size: 60px;
+        color: blue;
+}
+
+.row
+{ 
+  margin:auto; }
+  #an, #bn, #cn, #dn { border: 5px solid black; float: left; 
+    width:241px;
+    height: 150px;
+     margin:auto;
+}
